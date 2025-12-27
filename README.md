@@ -84,6 +84,8 @@ RAG_Sanskrit_Yogesh/
 ├── requirements.txt
 └── README.md
 ```
+## System Architecture
+![RAG Sanskrit System Architecture](https://github.com/user-attachments/assets/ad1abdc9-d269-40f3-96ec-a22930d1582d)
 
 
 ---
