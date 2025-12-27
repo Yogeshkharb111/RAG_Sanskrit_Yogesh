@@ -28,6 +28,22 @@ CPU-only execution is enforced by:
 
 ---
 
+## 🎥 Project Videos
+
+### 📌 Video Pitch
+A short overview explaining the motivation, architecture, and key features of the CPU-only Sanskrit RAG system.
+
+👉 Watch here: https://drive.google.com/file/d/1XibWBzIFEEARokP5ZmOnD62tpRx0epmv/view?usp=sharing
+
+---
+
+### 🧪 Demonstration Video
+A step-by-step demonstration of document ingestion, retrieval, and answer generation using the system.
+
+👉 Watch here: https://drive.google.com/your-demo-video-link
+
+---
+
 ## Repository Structure
 
 ```
