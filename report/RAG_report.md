@@ -4,7 +4,8 @@
 
 ### System Architecture Diagram
 
-![RAG Sanskrit System Architecture](images/System_Architecture.png)
+![RAG Sanskrit System Architecture](<img width="1024" height="1024" alt="Gemini_Generated_Image_9wwoap9wwoap9wwo" src="https://github.com/user-attachments/assets/ad1abdc9-d269-40f3-96ec-a22930d1582d" />
+)
 
 **Figure 1:** High-level architecture of the CPU-only Sanskrit Retrieval-Augmented
 Generation (RAG) system. The pipeline consists of document ingestion,
